@@ -1,0 +1,46 @@
+body{
+    background-color: #F3F1FE;
+    font-family: 'Poppins', sans-serif;
+}
+.logo{
+    width: 40px;
+}
+.navbar{
+    background-color: #553FF9;
+}
+.navbar a{
+    color: white;
+}
+.top-player img{
+    width: 40px;
+}
+main, .latest-course{
+    background-color: white;
+}
+.content-title{
+    color: #553FF9;
+}
+.top-blog img{
+    max-width: 300px;
+    min-width: 200px;
+}
+.author{
+    text-decoration: none;
+    color: #553FF9;
+}
+.instructor{
+    color: #ED7662;
+}
+.star, .clock{
+    height: 15px;
+}
+.time{
+    background-color: #FFE3E7;
+    color: #FD4A61;
+}
+.card{
+    border-radius: 20px;
+}
+.card-footer{
+    background-color: none;
+}
